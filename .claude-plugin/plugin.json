@@ -1,0 +1,8 @@
+{
+  "name": "ppt-template-team",
+  "version": "0.1.0",
+  "description": "Agent team that generates pixel-faithful pptx files from xlsx/docx/pdf input using a bundled master template.",
+  "author": {
+    "name": "sunmikim"
+  }
+}

@@ -1,0 +1,17 @@
+# Proprietary source materials — kept locally, never published.
+# These were the original POSCO RFP files used to seed plugin design.
+231020_*.pptx
+cover/
+table/
+_images/
+
+# Generated outputs
+output/
+*.pyc
+__pycache__/
+.DS_Store
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
